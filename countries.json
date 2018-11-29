@@ -7315,11 +7315,14 @@
   "Brunei": [
     "Bandar Seri Begawan",
     "Bangar",
+    "Jerudong",
     "Kampong Jerudong",
     "Kuala Balai",
     "Kuala Belait",
+    "Muara Town",
     "Panaga",
     "Seria",
+    "Sukang",
     "Tutong"
   ],
   "Bulgaria": [
@@ -10265,6 +10268,7 @@
     "Hezhu",
     "Hezuo",
     "Hohhot",
+    "Hong Kong",
     "Hongchang",
     "Honglin",
     "Hongling",
@@ -33809,6 +33813,7 @@
     "Ma On Shan Tsuen",
     "Ma Wan",
     "Ma Yau Tong",
+    "Macau",
     "Mau Ping",
     "Mid Levels",
     "Mong Kok",
@@ -33833,6 +33838,7 @@
     "Shau Kei Wan",
     "Shek Kip Mei",
     "Shek Tong Tsui",
+    "Shenzhen",
     "Sheung Shui",
     "Sheung Tsuen",
     "Shuen Wan",
@@ -33859,7 +33865,8 @@
     "Wong Tai Sin",
     "Yau Ma Tei",
     "Ying Pun",
-    "Yuen Long San Hui"
+    "Yuen Long San Hui",
+    "Zhuhai"
   ],
   "Hungary": [
     "Abaujszanto",
